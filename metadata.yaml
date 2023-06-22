@@ -1,11 +1,16 @@
 _repo: A-text-book-on-hygiene-and-pediatrics-from-a-chiropractic-standpoint_70951
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70951-h/images/cover.jpg
 creator:
   author:
     agent_name: Craven, John H.
     gutenberg_agent_id: '56007'
     url: http://www.gutenberg.org/2009/agents/56007
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70951#A-text-book-on-hygiene-and-pediatrics-from-a-chiropractic-standpoint
 gutenberg_issued: '2023-06-09'
 identifiers:
   gutenberg: '70951'
